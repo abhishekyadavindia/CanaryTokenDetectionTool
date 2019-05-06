@@ -7,7 +7,7 @@
 <h2>How to Execute and run file correctly in Debian/Ubuntu based OS</h2>
 <p>It's tested well running software</p>
 <h3>Step 1:-</h3><p>First, give executable permission to the Script file.Use the command as follows after going into the path where you have stored the Script</p>
-<code>chmod +x canarytokendetectiontool.sh</code>
+<code>chmod +x canarytokendetectortool.sh</code>
 <h3>Step 2:-</h3><p>After giving executable permission use the command as follow for executing the file:</p>
 <code>./canarytokendetectortool.sh</code>
 <hr>
