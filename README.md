@@ -11,7 +11,8 @@
 <h3>Step 2:-</h3><p>After giving executable permission use the command as follow for executing the file:</p>
 <code>./canarytokendetectortool.sh</code>
 <hr>
-Video Demo
+<h3>Video Demo</h3>
+<hr>
 <p class="unchanged rich-diff-level-one"><a href="https://www.youtube.com/watch?v=EpTcxoAhKyI" rel="nofollow"><img src="https://camo.githubusercontent.com/a91f85e5b1409d972e9b0f0187d7cfd3e29770ac/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f45705463786f41684b79492f302e6a7067" alt="How to easily detect canarytokens tracking links" data-canonical-src="https://img.youtube.com/vi/EpTcxoAhKyI/0.jpg" style="max-width:100%;"></a></p>
 <p>This script will detect canary token in microsoft word documents. It prevent tracking via canary tokens.</p>
 <hr>
